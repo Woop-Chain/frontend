@@ -17,7 +17,7 @@ const currentChain = {
   },
   blockExplorers: {
     'default': {
-      name: 'Blockscout',
+      name: 'WikiWoop',
       url: config.app.baseUrl,
     },
   },

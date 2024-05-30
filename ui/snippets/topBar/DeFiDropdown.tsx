@@ -49,7 +49,7 @@ const DeFiDropdown = () => {
           { ...buttonStyles }
         >
           <chakra.span display={{ base: 'none', lg: 'inline' }} mr={ 1 }>
-            Blockscout
+            WikiWoop
           </chakra.span>
           DeFi
           <IconSvg name="arrows/east-mini" boxSize={ 4 } ml={ 1 } transform="rotate(-90deg)"/>

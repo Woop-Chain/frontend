@@ -26,9 +26,9 @@ const WalletTooltip = ({ children, isDisabled, isMobile, isWalletConnected, isAu
       if (isAutoConnectDisabled) {
         return <span>Your wallet is not<br/>connected to this app.<br/>Connect your wallet<br/>in the app directly</span>;
       }
-      return <span>Your wallet is connected<br/>with Blockscout</span>;
+      return <span>Your wallet is connected<br/>with WikiWoop</span>;
     }
-    return <span>Connect your wallet<br/>to Blockscout for<br/>full-featured access</span>;
+    return <span>Connect your wallet<br/>to WikiWoop for<br/>full-featured access</span>;
   }, [ isWalletConnected, isAutoConnectDisabled ]);
 
   const isAppPage = router.pathname === '/apps/[id]';

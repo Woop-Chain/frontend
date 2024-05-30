@@ -47,10 +47,10 @@ export const tagWithTooltip: AddressMetadataTagApi = {
   tagType: 'classifier',
   ordinal: 42,
   meta: {
-    tooltipDescription: 'The Blockscout team, EVM blockchain aficionados, illuminate Ethereum networks with unparalleled insight and prowess, leading the way in blockchain exploration! 🚀🔎',
+    tooltipDescription: 'The WikiWoop team, EVM blockchain aficionados, illuminate Ethereum networks with unparalleled insight and prowess, leading the way in blockchain exploration! 🚀🔎',
     tooltipIcon: 'https://localhost:3100/icon.svg',
-    tooltipTitle: 'Blockscout team member',
-    tooltipUrl: 'https://blockscout.com',
+    tooltipTitle: 'WikiWoop team member',
+    tooltipUrl: 'https://explorer.wikiwoop.com',
   },
 };
 
